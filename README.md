@@ -29,4 +29,4 @@ The Python Files as specified by their names consists python scripts written/use
 
 The CSV files are the dataset after cleaning and further used for creating visualisations using Tableau. The name suggests the type of Dashboards created and the particular field of problem it can solve. 
 
-NOTE: The above analysis was done by me in the Visual Analytics module assesment in the degree MSc Data Science at the University of Bristol. 
+NOTE: The above analysis was done by me in the Visual Analytics module assesment in the degree MSc Data Science at the University of Bristol, UK. 
