@@ -1,4 +1,4 @@
-# UK2011CensusAnalysis
+# England and Wales 2011 Census Analysis
 The repository consists of python files used for the data preprocessing of the 2011 census data of England and Wales and revolves around the different stages which led to the successful completion of different analytical tasks using data visualizations.
 	
 Problem : 
